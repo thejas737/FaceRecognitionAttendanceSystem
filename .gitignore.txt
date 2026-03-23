@@ -1,0 +1,6 @@
+_pycache__/
+*.pyc
+
+dataset/
+trainer/
+attendance/
