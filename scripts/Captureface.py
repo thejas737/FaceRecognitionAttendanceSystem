@@ -25,7 +25,7 @@ os.makedirs(dataset_path, exist_ok=True)
 cap = cv2.VideoCapture(0)
 
 count = 0
-max_images = 40
+max_images = 80
 
 while True:
 
